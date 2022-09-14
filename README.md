@@ -1,4 +1,4 @@
-# code-20220810-AmanBrar
+
 
 <b>bmi.py </b> is main class .<br>
 It builds object using gender,weight & height adding bmi , bmi_category & health risk
